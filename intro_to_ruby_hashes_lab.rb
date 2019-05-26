@@ -1,4 +1,19 @@
-def new_hash
+def new_hash monopoly = {:railroads =>}
+  :pieces=4, :rent_in_dollars=>}
+  :one_piece_owned=>25 
+  :two_pieces_owned=>50, 
+  :three_pieces_owed=>200},
+  :name=>{
+    :reading_railroad=>
+    { "mortgage_value"=> "$100"
+      }, :pennsylviania_railroad=>
+  }:pennsylvania_railroad=> {"mortgage_value=> "400"
+  },
+  :shortline=>
+  {
+    "mortgage_value"=> "800"
+    
+  }
 
 end
 
